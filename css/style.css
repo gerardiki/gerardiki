@@ -243,6 +243,7 @@ ul {
 	justify-content: center;
 	position: fixed;
 	width: 100%;
+	z-index: 7;
 }
 
 #mainNav a {
@@ -339,6 +340,7 @@ ul {
 	position: fixed;
 	top: 0;
 	width: 100%;
+	z-index: 7;
 }
 
 #work {
