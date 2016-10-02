@@ -139,6 +139,7 @@ ul {
 	background: inherit;
 	padding: 3.2em 0;
 	margin-bottom: 6em;
+	text-align: center;
 	width: 80%;
 }
 
@@ -157,11 +158,16 @@ ul {
 
 #contact nav {
 	padding: 0;
+	text-align: center;
 }
 
 #contact nav a {
 	/*margin-right: 1.6em;
     padding: .6em 0;*/
+}
+
+#contact p {
+	margin: auto;
 }
 
 #education {
