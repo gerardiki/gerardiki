@@ -642,6 +642,10 @@ ul {
 	width: 80%;
 }
 
+.uxWrapper ul {
+	text-align: left;
+}
+
 .videoWidth {
 	display: inline-block;
 	margin-bottom: 1em;
