@@ -24,7 +24,6 @@ a:visited {
 
 a:hover {
 	color: #306;
-	/*border-bottom: 1px solid;*/
 }
 
 a:active {
@@ -59,7 +58,6 @@ h1 {
 	color: #36c;
 	font-size: 2em;
 	font-weight: 800;
-	/*text-align: center;*/
 	text-transform: uppercase;
 }
 
@@ -124,7 +122,6 @@ section {
 
 section > section {
 	background: #fff;
-	/*width: 80%;*/
 }
 
 ul {
@@ -159,11 +156,6 @@ ul {
 #contact nav {
 	padding: 0;
 	text-align: center;
-}
-
-#contact nav a {
-	/*margin-right: 1.6em;
-    padding: .6em 0;*/
 }
 
 #contact p {
@@ -234,7 +226,6 @@ ul {
 }
 
 #logoWrapper {
-/*	margin: .3em;*/
 	width: 80%;
 }
 
@@ -306,7 +297,6 @@ ul {
 	background: #fff;
 	padding: 1.6em 0;
 	width: 100%;
-	/*padding: 6em 0 1.6em;*/
 }
 
 #skills > section {
@@ -320,7 +310,6 @@ ul {
 }
 
 #statement p {
-	/*color: #306;*/
 	margin: auto;
 	max-width: 30em;
 	padding: .6em 0;
